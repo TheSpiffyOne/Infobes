@@ -66,7 +66,7 @@ SELECT * FROM users WHERE username = 'admin' AND password = '' or 1=1
 * isActive: true (аккаунт активен).
 * createdAt/updatedAt: дата создания/обновления аккаунта.
 * iat (issued at): время выдачи токена в формате Unix‑времени.
-* 
+  
 ## Ответы на вопросы
 ### 1. Какой логин у администратора?
 admin@juice-sh.op
